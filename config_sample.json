@@ -7,5 +7,5 @@
   "private_key_path": "/path/pk",
   "private_key_passphrase": "strong passphrase",
   "warehouse": "my_virtual_warehouse",
-  "tables": "db.schema.table1,db.schema.table2"
+  "tables": ["db.schema.table1","db.schema.table2"]
 }
